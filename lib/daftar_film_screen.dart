@@ -12,7 +12,7 @@ class DaftarFilmScreen extends StatelessWidget {
 
     {
       "judul": "Batman",
-      "gambar": "https://m.media-amazon.com/images/I/71niXI3lxlL.jpg",
+      "gambar": "https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg",
       "deskripsi": "Bruce Wayne melawan kriminal Gotham.",
     },
 
@@ -33,7 +33,7 @@ class DaftarFilmScreen extends StatelessWidget {
     {
       "judul": "Inception",
       "gambar":
-          "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg",
+          "https://upload.wikimedia.org/wikipedia/id/9/91/Inception_poster.jpg",
       "deskripsi": "Masuk ke dalam mimpi manusia.",
     },
 
@@ -47,7 +47,7 @@ class DaftarFilmScreen extends StatelessWidget {
     {
       "judul": "Titanic",
       "gambar":
-          "https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg",
+          "https://upload.wikimedia.org/wikipedia/id/1/19/Titanic_%28Official_Film_Poster%29.png",
       "deskripsi": "Kisah cinta di kapal Titanic.",
     },
 
